@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'Binggrae';
+  src: url('Binggrae.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Binggrae-Bold';
+  src: url('Binggrae-Bold.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
